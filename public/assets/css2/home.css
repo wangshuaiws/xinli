@@ -1,0 +1,9 @@
+#navbar{
+	min-height:54px;
+}
+#navbar-container ul.ace-nav>li{
+	height:54px;
+}
+#navbar-container ul.ace-nav>li>a{
+	padding:4px 8px;
+}
